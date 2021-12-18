@@ -1,6 +1,6 @@
 
 '''
- XGB-TCN model based on dataset
+ TCN model based on dataset
 
  2021/12 organized by LIU
 '''
